@@ -1,0 +1,31 @@
+h2{
+	color:red;
+}
+
+label{ 
+	display: block; 
+	width: 100px; 
+	
+}
+
+body{
+	background-color: #CECEF6;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+}
+
+th {
+    text-align: left;
+    color:red;
+}
+
+table{
+	width=100%;
+}
